@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Fishey/FisheyJam/Content/Conner/Horse.uasset",
+				"D:/Fishey/FisheyJam/Content/Gymlevel/GymLevel.umap",
+				"D:/Fishey/FisheyJam/Content/XArt/Fish1.uasset",
+				"D:/Fishey/FisheyJam/Content/XArt/FishM.uasset",
+				"D:/Fishey/FisheyJam/Content/XArt/Fish1_Skeleton.uasset",
 				"D:/Unreal Projects/Fishey/FisheyJam/Content/XArt/NewMaterial.uasset",
 				"D:/Unreal Projects/Fishey/FisheyJam/Content/Logan/NewMaterial.uasset",
 				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
