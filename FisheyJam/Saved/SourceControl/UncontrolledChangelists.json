@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/BluePrints/Fishing_GameMode.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/BluePrints/ThirdPersonCharacter_BP.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/Inputs/ThirdPerson_InputMapping.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/Inputs/CastingPole_IA.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/Inputs/Looking_IA.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/Inputs/Movement_IA.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/Inputs/ReelingPole_IA.uasset",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/TylersTest_Level.umap",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/GymLevel1.umap",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/TylersTest_Level1.umap",
 				"D:/Fishey/FisheyJam/Content/Conner/Horse.uasset",
 				"D:/Fishey/FisheyJam/Content/Gymlevel/GymLevel.umap",
 				"D:/Fishey/FisheyJam/Content/XArt/Fish1.uasset",
@@ -12,8 +23,7 @@
 				"D:/Fishey/FisheyJam/Content/XArt/Fish1_Skeleton.uasset",
 				"D:/Fishey/FisheyJam/Content/Conner/ModelingOutputs/CubeGridToolOutput_03AC84F8.uasset",
 				"D:/Unreal Projects/Fishey/FisheyJam/Content/XArt/NewMaterial.uasset",
-				"D:/Unreal Projects/Fishey/FisheyJam/Content/Logan/NewMaterial.uasset",
-				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Unreal Projects/Fishey/FisheyJam/Content/Logan/NewMaterial.uasset"
 			]
 		}
 	]
