@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/Swan.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/SwanStraightened.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/SwanStraightened_PhysicsAsset.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/ElSwanX_Swan_BaseColor.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/ElSwanX_Swan_Normal.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/SwanStraightened_Skeleton.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/SwanStraightened/ElSwanX_Swan_OcclusionRoughnessMetallic.uasset",
 				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/BluePrints/Fishing_GameMode.uasset",
 				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/BluePrints/ThirdPersonCharacter_BP.uasset",
