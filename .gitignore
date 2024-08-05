@@ -74,6 +74,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 /FisheyJam/Saved
 /FisheyJam/Saved/Logs
-/FisheyJam/Saved
 FisheyJam/Saved/Telemetry/Telemetry.json
 /FisheyJam/Intermediate/ReimportCache
+FisheyJam/Saved/AutoScreenshot.png
+FisheyJam/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+FisheyJam/Saved/Logs/FisheyJam.log
+
