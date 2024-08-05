@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/GameplayLevels/GymLevel.umap",
+				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/BluePrints/FishingFeature/BP_FishingZone.uasset",
 				"U:/Fishey/FisheyJam/Content/AFerdin/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset",
 				"U:/Fishey/FisheyJam/Content/GameplayLevels/Level2.umap",
 				"U:/Fishey/FisheyJam/Content/AFerdin/SuperGrid/StarterPack/Source/New/CylinderCut.uasset",
