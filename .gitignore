@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/FisheyJam/Saved
+/FisheyJam/Saved/Logs
+/FisheyJam/Saved
+FisheyJam/Saved/Telemetry/Telemetry.json
+/FisheyJam/Intermediate/ReimportCache
