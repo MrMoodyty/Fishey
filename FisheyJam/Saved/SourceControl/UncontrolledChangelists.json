@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Git/Fishey/FisheyJam/Content/XArt/CoolingTower/CoolingTowerM.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/CoolingTower/CoolingTower.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/CoolingTower/CoolingTower_CoolingTowerM_BaseColor.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/CoolingTower/CoolingTower_CoolingTowerM_Normal.uasset",
+				"G:/Git/Fishey/FisheyJam/Content/XArt/CoolingTower/CoolingTower_CoolingTowerM_OcclusionRoughnessMetallic.uasset",
 				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/GameplayLevels/GymLevel.umap",
 				"D:/RyanLanelyJam/Fishey/FisheyJam/Content/Tyler/BluePrints/FishingFeature/BP_FishingZone.uasset",
 				"U:/Fishey/FisheyJam/Content/AFerdin/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset",
