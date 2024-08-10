@@ -22,6 +22,26 @@
 	},
 	"BuildProducts": [
 		{
+			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsEditorPlugin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsEditorPlugin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsPlugin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsPlugin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json",
 			"Type": "RequiredResource"
 		},
@@ -9756,29 +9776,17 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsEditorPlugin.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsEditorPlugin.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsPlugin.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor-BlockoutToolsPlugin.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
+		{
+			"Path": "$(ProjectDir)/FisheyJam.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/BlockoutToolsPlugin.uplugin",
+			"Type": "UFS"
+		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
 			"Type": "NonUFS"
@@ -35561,14 +35569,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Shaders/StandaloneRenderer/OpenGL/SplashVertexShader.glsl",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/FisheyJam.uproject",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/BlockoutToolsPlugin/BlockoutToolsPlugin.uplugin",
 			"Type": "UFS"
 		}
 	],

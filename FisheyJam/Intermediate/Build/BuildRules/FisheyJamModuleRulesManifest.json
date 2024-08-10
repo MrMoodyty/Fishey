@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"D:\\RyanLanelyJam\\Fishey\\FisheyJam\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsEditorPlugin\\BlockoutToolsEditorPlugin.Build.cs",
-		"D:\\RyanLanelyJam\\Fishey\\FisheyJam\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsPlugin\\BlockoutToolsPlugin.Build.cs"
+		"U:\\Fishey\\FisheyJam\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsEditorPlugin\\BlockoutToolsEditorPlugin.Build.cs",
+		"U:\\Fishey\\FisheyJam\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsPlugin\\BlockoutToolsPlugin.Build.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
